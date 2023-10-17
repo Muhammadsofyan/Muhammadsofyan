@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Halo semua! 
+
+Perkenalkan nama saya **Muhammad Sofyan**.<br>
+
+Saya seorang lulusan **Teknik Elektro** dari **Universitas Diponegoro**.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhsofyan/)ku ya.
